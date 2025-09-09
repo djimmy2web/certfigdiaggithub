@@ -14,8 +14,8 @@
     "setup:oauth": "node scripts/setup-oauth.js"
   },
   "dependencies": {
-    "@auth/core": "^0.40.0",
-    "@auth/mongodb-adapter": "^3.10.0",
+    "@auth/core": "0.34.2",
+    "@auth/mongodb-adapter": "^3.8.0",
     "@types/multer": "^2.0.0",
     "bcryptjs": "^3.0.2",
     "dotenv": "^17.2.1",

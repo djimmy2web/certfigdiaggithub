@@ -4,5 +4,6 @@
       "path": "/api/admin/rankings/auto-process",
       "schedule": "0 0 * * 1"
     }
-  ]
+  ],
+  "buildCommand": "npm ci --legacy-peer-deps && npm run build"
 }
